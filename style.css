@@ -1,0 +1,71 @@
+p{
+    color: green;
+}
+
+p::first-letter{
+    font-size: 35px;
+}
+
+.header{
+    color: blueviolet
+}
+
+#head{
+    color: green;
+    font-size: 22px;
+
+}
+
+.ul1 {
+    font-size: 40px;
+    color: yellow;
+    background-color: black;
+}
+
+div > p {
+    color: blue;
+    font-size: 20px;
+}
+
+
+h3+p{
+    color:brown
+    
+}
+
+h4{
+    color: chocolate;
+    font-size: 35px;
+    margin-bottom: 0px;
+}
+
+.main-container{
+    color: magenta;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+.main-container>ul {
+    margin-top: 0px;
+    color: orange
+
+}
+
+.main-container>ul li:first-child {
+    margin-top: 0px;
+    color: green
+
+}
+
+
+.main-container> ul > li#li1 {
+    color: red;
+}
+
+img {
+   border-radius: 50%
+}
+
+/* . 0.0.1.0 + ul 0.0.0.1 + li 0.0.0.1 + # 0.1.0.0 = 0.1.1.2
+
