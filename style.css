@@ -52,12 +52,6 @@ h4{
 
 }
 
-.main-container>ul li:first-child {
-    margin-top: 0px;
-    color: green
-
-}
-
 
 .main-container> ul > li#li1 {
     color: red;
@@ -67,5 +61,9 @@ img {
    border-radius: 50%
 }
 
-/* . 0.0.1.0 + ul 0.0.0.1 + li 0.0.0.1 + # 0.1.0.0 = 0.1.1.2
 
+.test-p-class-2
+
+{
+    color: blueviolet;
+}
